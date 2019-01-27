@@ -2,7 +2,7 @@
 
 Gdax1 is a iOS app to trade cryptocurrency on the Gdax (now Coinbase PRO) cryptocurrency trading servers. 
 
-Gdax1 also works in the background and notifies you of significant price changes of a cryto currecny asset. 
+Gdax1 also works in the background and notifies you of significant price changes of a cryto currency asset. 
 
 It uses the REST API provided by coinbase to communicate with the servers. 
 
