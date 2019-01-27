@@ -1,20 +1,43 @@
 # Gdax1
-iOS app to trade cryptocurrency on the Gdax(Coinbase) server. iOS Gadax REST api wrapper 
+
+Gdax1 is a iOS app to trade cryptocurrency on the Gdax (now Coinbase PRO) cryptocurrency trading servers. 
+
+It uses the REST API provided by coinbase to communicate with the servers. 
 
 
-Usese the Cocoapods dependecny manager, make sure Cocoapods is intalled on your machine. 
+## Installation
 
-Installing cocoapods: launch a terminal window:
-  sudo gem install cocoapods
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-After you have cocoapods, cd into the project directory and install the dependencies of the project from the provided pod file.
+Use the Cocoapods dependency manager to install the dependencies
 
+Install Cocoapods (if not already installed) 
+```bash
+sudo gem install cocoapods
+```
+
+Cocoapods used pod files to install the dependencies
+
+installing project dependencies:
+
+cd into your project directory 
+
+```bash
 pod install
+```
 
-This will install all dependencies
-
-To launch application: open the Gdax1.xcworkspace using Xcode
+Now launch the Gdax1.xcworkspace using Xcode
 
 you should now be able to do a build of your project in Xcode
 
 
+## Screenshoots
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
