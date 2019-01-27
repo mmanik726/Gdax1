@@ -7,8 +7,6 @@ It uses the REST API provided by coinbase to communicate with the servers.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 Use the Cocoapods dependency manager to install the dependencies
 
 Install Cocoapods (if not already installed) 
@@ -16,7 +14,7 @@ Install Cocoapods (if not already installed)
 sudo gem install cocoapods
 ```
 
-Cocoapods used pod files to install the dependencies
+Cocoapods uses pod files to install the dependencies
 
 installing project dependencies:
 
