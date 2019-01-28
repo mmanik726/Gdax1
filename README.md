@@ -35,11 +35,14 @@ you should now be able to do a build of your project in Xcode
 
 ## Screenshots
 
-Trading Ui
+### Trading Ui 
 ![Alt text](https://github.com/mmanik726/Gdax1/blob/master/Gdax1_screenshot1.png?raw=true "Gdax1 screenshot1")
 
-Background Notification
+### Background Notification 
 ![Alt text](https://github.com/mmanik726/Gdax1/blob/master/Gdax1_screenshot2.png?raw=true "Gdax1 screenshot2")
+
+### Gdax1 Class Diagram 
+![Alt text](https://github.com/mmanik726/Gdax1/blob/master/Gdax1_ClassDiagram.jpg?raw=true "Gdax1 Class Diagram")
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
