@@ -33,7 +33,7 @@ Now launch the Gdax1.xcworkspace using Xcode
 you should now be able to do a build of your project in Xcode
 
 
-## Screenshoots
+## Screenshots
 
 Trading Ui
 ![Alt text](https://github.com/mmanik726/Gdax1/blob/master/Gdax1_screenshot1.png?raw=true "Gdax1 screenshot1")
